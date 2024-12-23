@@ -20,8 +20,8 @@ View borrowing records for a specific user or all users.
 
 ## **Dependencies**
 
-Python 3.8+
-FastAPI
+Python 3.8+, 
+FastAPI and 
 Uvicorn
 
 ## **Installation**
